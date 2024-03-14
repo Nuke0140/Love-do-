@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 04 Mar 2024 10:19:09 at https://themified.com/friend-finder/index-register.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themified.com/friend-finder/index-register.html -O1 "C:\Users\nuke\Documents\love do" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:22:57	Warning: 	Unexpected socket error during pre-loop
+10:23:57	Warning: 	Unexpected socket error during pre-loop
+10:24:00	Warning: 	Unexpected socket error during pre-loop
+10:25:00	Warning: 	Unexpected socket error during pre-loop
+10:26:00	Warning: 	Unexpected socket error during pre-loop
+10:27:00	Warning: 	Unexpected socket error during pre-loop
+10:27:07	Error: 	"Not Found" (404) at link https://themified.com/friend-finder/timelime.html (from https://themified.com/friend-finder/newsfeed-friends.html)
+10:27:07	Error: 	"Not Found" (404) at link https://themified.com/friend-finder/timline.html (from https://themified.com/friend-finder/timeline.html)
+10:27:07	Warning: 	Retry after error -4 (Receive Error) at link https://themified.com/friend-finder/css/emoji/earth_africa.png (from https://themified.com/friend-finder/css/emoji.css)
+10:27:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themified.com/friend-finder/css/emoji/eight_spoked_asterisk.png (from https://themified.com/friend-finder/css/emoji.css)
+10:27:07	Warning: 	Retry after error -4 (Receive Error) at link https://themified.com/friend-finder/css/emoji/key.png (from https://themified.com/friend-finder/css/emoji.css)
+10:27:07	Warning: 	Retry after error -4 (Receive Error) at link https://themified.com/friend-finder/css/emoji/kissing_closed_eyes.png (from https://themified.com/friend-finder/css/emoji.css)
+10:27:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themified.com/friend-finder/css/emoji/page_facing_up.png (from https://themified.com/friend-finder/css/emoji.css)
+10:27:36	Warning: 	Retry after error -4 (Receive Error) at link https://themified.com/friend-finder/css/emoji/paperclip.png (from https://themified.com/friend-finder/css/emoji.css)
+10:27:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themified.com/friend-finder/css/emoji/smoking.png (from https://themified.com/friend-finder/css/emoji.css)
+10:27:37	Warning: 	Retry after error -4 (Receive Error) at link https://themified.com/friend-finder/css/emoji/snowman.png (from https://themified.com/friend-finder/css/emoji.css)
+10:28:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themified.com/friend-finder/css/emoji/white_medium_small_square.png (from https://themified.com/friend-finder/css/emoji.css)
+10:28:05	Warning: 	Retry after error -4 (Receive Error) at link https://themified.com/friend-finder/css/emoji/wolf.png (from https://themified.com/friend-finder/css/emoji.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 58 seconds : 1023 links scanned, 1010 files written (90324515 bytes overall) [90147948 bytes received at 167561 bytes/sec], 526156 bytes transferred using HTTP compression in 23 files, ratio 18%, 28.4 requests per connection
+(2 errors, 16 warnings, 0 messages)
